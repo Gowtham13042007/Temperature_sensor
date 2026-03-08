@@ -1,0 +1,3 @@
+monitor:
+  ros__parameters:
+    temp_threshold: 27.0
