@@ -289,10 +289,4 @@ Temperature_sensor/
 
 ---
 
-## Author
-
-**Gowtham** — [@Gowtham13042007](https://github.com/Gowtham13042007)
-
----
-
 *Built with ROS 2 · Python · rclpy · CMake · colcon*
